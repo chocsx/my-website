@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://gabrielkalani.com.br/sitemap.xml
